@@ -1,0 +1,14 @@
+streamlit
+pymupdf
+scikit-learn
+sentence-transformers
+keybert
+nltk
+pandas
+matplotlib
+seaborn
+plotly
+tqdm
+requests
+xgboost
+lxml
